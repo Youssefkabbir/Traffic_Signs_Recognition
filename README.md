@@ -1,11 +1,6 @@
 #                                               <p align="center">          **Traffic Signs Recognition** </p>
 <p align="center">
-    <img width="300" src="https://ars.els-cdn.com/content/image/1-s2.0-S2352340915000505-gr1.jpg" alt="Material Bread logo">
-    </p>
-    <p align="center">
-        <img width="300" src="https://i.pinimg.com/564x/f4/53/c8/f453c8647c0cb1819e32499952716ed4.jpg" alt="Material Bread logo">
-
-   
+    <img width="300" src="https://i.pinimg.com/originals/11/0c/a4/110ca4166d4c0f7c55f711942232b5f0.jpg" alt="Material Bread logo">
 </p>
 
 [![Downloads](https://img.shields.io/badge/Opencv-install-blue)](https://pypi.org/project/opencv-python)
