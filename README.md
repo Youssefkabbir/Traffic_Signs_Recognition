@@ -1,6 +1,6 @@
 #                                               <p align="center">          **Traffic Signs Recognition** </p>
 <p align="center">
-    <img width="300" src="https://www.researchgate.net/profile/D-Mammass-2/publication/228786329/figure/fig1/AS:643184833097737@1530358622760/Tifinagh-characters-adopted-by-the-Royal-Institue-of-Amazigh-culture.png" alt="Material Bread logo">
+    <img width="300" src="https://ars.els-cdn.com/content/image/1-s2.0-S2352340915000505-gr1.jpg" alt="Material Bread logo">
 </p>
 
 [![Downloads](https://img.shields.io/badge/Opencv-install-blue)](https://pypi.org/project/opencv-python)
