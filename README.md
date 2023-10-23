@@ -1,7 +1,7 @@
 #                                               <p align="center">          **Traffic Signs Recognition** </p>
 <p align="center">
     <img width="300" src="https://ars.els-cdn.com/content/image/1-s2.0-S2352340915000505-gr1.jpg" alt="Material Bread logo">
-        <img width="300" src=" https://i.pinimg.com/564x/f4/53/c8/f453c8647c0cb1819e32499952716ed4.jpg" alt="Material Bread logo">
+        <img width="300" src="https://i.pinimg.com/564x/f4/53/c8/f453c8647c0cb1819e32499952716ed4.jpg" alt="Material Bread logo">
 
    
 </p>
